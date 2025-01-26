@@ -1,21 +1,23 @@
 # Data Analysis and Trading Strategy 
 
-### Overview
+## Overview
 
 This task involves analyzing power market data and developing a trading strategy based on wind and solar power forecasts. The goal is to explore the relationship between renewable energy production and electricity prices and to design a profitable trading strategy using Day-Ahead and Intraday markets.
 
-### Data Source
+## Data Source
 
 The dataset used to load the data into the projet was the "analysis_task_data.xlsx", but it was cleaned and preprocessed to "cleaned_file.xlsx".
 
-### Data Preprocessing
+## Data Preprocessing
 
 - The file was loaded and the sheets were checked
 - The main dataset from the "DE_Wind_PV_Prices" sheet was loaded and the data was checked
 - To figure out if the formatting of the columns was okay, and info function was run 
 - The cleaned dataset was then extracted to a different Excel file to be used
 
-### Task Breakdown
+## Task Breakdown
+
+### Data Analysis [Task Link](https://github.com/kokakokabot/flexpower-task/blob/main/Notebooks/analysis.ipynb)
 
 #### Task 2.1
 
@@ -42,10 +44,12 @@ The dataset used to load the data into the projet was the "analysis_task_data.xl
 - Calculated the average hourly DA price on weekdays and weekends
 - Compared them and explained why there was a difference
 
-#### Task 2.6
+### Task 2.6
 
 - Calculated the revenue for a battery with a capacity of 1 MWh which is fully charged and discharged once per day
 - Determined what would be the best time to charge and discharge the battery and produce the most amount of revenue
+
+### Trading Straetgy [Task Link](https://github.com/kokakokabot/flexpower-task/blob/main/Notebooks/trading_strategy.ipynb)
 
 #### Task 2.7
 
