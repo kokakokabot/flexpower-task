@@ -47,7 +47,7 @@ The dataset used to load the data into the projet was the "analysis_task_data.xl
 - Calculated the revenue for a battery with a capacity of 1 MWh which is fully charged and discharged once per day
 - Determined what would be the best time to charge and discharge the battery and produce the most amount of revenue
 
-### Task 2.7
+#### Task 2.7
 
 - Designed a Trading Strategy to make money between the DA and ID market
 - Visualized and explained the Trading Strategy
